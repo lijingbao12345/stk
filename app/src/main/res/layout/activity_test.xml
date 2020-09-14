@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--无用到-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.goods.basemvp.ui.TestActivity">
+
+    <TextView
+        android:id="@id/test_tv3"
+        style="@style/style_text_tv"
+        android:text="dadada" />
+
+    <TextView
+        android:id="@+id/t2"
+        style="@style/style_text_tv"
+        android:text="dadada" />
+
+    <TextView
+        android:id="@+id/tv3"
+        style="@style/style_text_tv"
+        android:text="dadada" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@id/test_tab"
+        style="@style/style_tab_text" />
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@id/test_vp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

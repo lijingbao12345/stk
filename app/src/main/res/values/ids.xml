@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <item type="id" name="test_but"/>
+    <item type="id" name="test_tv3"/>
+    <item type="id" name="test_tab"/>
+    <item type="id" name="test_vp"/>
+    <item type="id" name="but_ok"/>
+</resources>

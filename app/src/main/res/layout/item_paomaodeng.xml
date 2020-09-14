@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.sunfusheng.marqueeview.MarqueeView
+        android:id="@+id/mv_multi_text5"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/d150"
+        app:mvAnimDuration="1000"
+        app:mvTextSize="@dimen/size_32"
+        android:layout_marginTop="10dp"
+        android:background="@mipmap/paomaodeng_bg_img"
+        app:mvDirection="top_to_bottom"
+        app:mvInterval="3000">
+        <Button
+            android:id="@+id/but"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="详情"
+            android:layout_gravity="right"
+            />
+    </com.sunfusheng.marqueeview.MarqueeView>
+</LinearLayout>

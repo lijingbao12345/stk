@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Goods</string>
+    <string name="welcome_messages">Holle,%1$s! You have %2$d new Message.</string>
+
+</resources>

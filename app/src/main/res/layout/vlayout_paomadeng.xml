@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <View android:layout_height="2px"
+        android:layout_width="match_parent"
+        android:background="@color/colorBlack"
+        android:id="@+id/separator1" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@mipmap/notify" />
+
+        <com.sunfusheng.marqueeview.MarqueeView
+            android:id="@+id/marqueeView"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            app:mvAnimDuration="1000"
+            app:mvDirection="bottom_to_top"
+            app:mvInterval="3000"
+            app:mvSingleLine="true"
+            app:mvTextColor="@color/colorGary"
+            app:mvTextSize="16sp" />
+
+        <Button
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:text="详情" />
+
+    </LinearLayout>
+    <View android:layout_height="2px"
+        android:layout_width="match_parent"
+        android:background="#656363"
+        android:id="@+id/separator2" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:background="@color/colorGary" />
+</LinearLayout>

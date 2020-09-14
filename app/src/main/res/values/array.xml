@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--tablayout的title-->
+    <string-array name="our_name">
+        <item>小李子</item>
+        <item>小宝子</item>
+        <item>小李飞刀</item>
+        <item>小李飞刀2</item>
+    </string-array>
+<!--text各种颜色存放-->
+    <array name="text_Color">
+        <item>#050505</item>
+        <item>#E60E0E</item>
+        <item>#F1ECEC</item>
+        <item>#E91E63</item>
+    </array>
+
+
+</resources>

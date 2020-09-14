@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_light_hint_layout.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\light_hint_layout.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_light_hint.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable-xxhdpi\\ic_light_hint.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_home_tab_one.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxxhdpi\\home_tab_one.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Goods\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_play_pressed.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play_pressed.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_classify.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\fragment_classify.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_malltest.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\item_malltest.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_classfiy_tab_one.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxxhdpi\\classfiy_tab_one.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_pause_style.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable\\btn_pause_style.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_vlayout_seckill.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\vlayout_seckill.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_paomaodeng.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\item_paomaodeng.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_vlayout_banner.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\vlayout_banner.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Goods\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Goods\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_notify.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxxhdpi\\notify.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_play.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seekbar_style.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable\\seekbar_style.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_paomaodeng_bg_img.jpg.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xhdpi\\paomaodeng_bg_img.jpg"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_my_tab_two.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxxhdpi\\my_tab_two.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_video_layout.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\video_layout.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_volume_hint.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable\\ic_volume_hint.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_brandmanufacturer.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\item_brandmanufacturer.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_title.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\layout_title.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tool_bar.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\activity_tool_bar.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_hometestone.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\item_hometestone.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_test.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\layout_test.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Goods\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Goods\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_vlayout_brand.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\vlayout_brand.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mall_test.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\activity_mall_test.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_shoppingtrolley_one.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxxhdpi\\shoppingtrolley_one.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Goods\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_tab.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable\\my_tab.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_my.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\fragment_my.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_title.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\item_title.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_back_one.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxxhdpi\\back_one.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_toolbar.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\menu\\menu_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_title_two_img.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxhdpi\\title_two_img.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test_broad_cast.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\activity_test_broad_cast.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_vlayout_title.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\vlayout_title.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_title2.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\item_title2.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_my_tab_one.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxxhdpi\\my_tab_one.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pause.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_tab.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable\\home_tab.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_simple_text.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\item_simple_text.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_specialtopic_tab_one.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxxhdpi\\specialtopic_tab_one.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable_specialtopic_tab.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable\\specialtopic_tab.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_card_style.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable-v24\\card_style.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_screen.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable-xxhdpi\\ic_screen.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pause_disable.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pause_disable.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_light_hint.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable\\ic_light_hint.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_title_one_tv_img.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxhdpi\\title_one_tv_img.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_seckill.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\item_seckill.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable_classification_tab.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable\\classification_tab.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_vlayout_paomadeng.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\vlayout_paomadeng.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_play_disable.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play_disable.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_appbar_layout.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\appbar_layout.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pause_pressed.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pause_pressed.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_home_tab_two.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxxhdpi\\home_tab_two.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_main.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable\\shape_main.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_edit_one.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxxhdpi\\edit_one.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_volume.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable-xxhdpi\\ic_volume.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_classfiy_tab_two.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxxhdpi\\classfiy_tab_two.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_title_four_img.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxhdpi\\title_four_img.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_title_three_img.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxhdpi\\title_three_img.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_specialtopic.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\fragment_specialtopic.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_specialtopic_tab_two.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxxhdpi\\specialtopic_tab_two.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Goods\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\layout_volume_hint_layout.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\layout\\volume_hint_layout.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_style_img_bg.jpg.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xhdpi\\style_img_bg.jpg"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_play_style.xml.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable\\btn_play_style.xml"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_volume_hint.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\drawable-xxhdpi\\ic_volume_hint.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Goods\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Goods\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
